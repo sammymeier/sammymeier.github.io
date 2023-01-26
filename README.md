@@ -25,7 +25,7 @@
 
 ## Weekly Assignments
 - WA1 sammymeier.github.io/index.html 
-- WA2
+- WA2 http://127.0.0.1:5500/wa/wa2.html 
 - WA3
 - WA4
 - WA5
