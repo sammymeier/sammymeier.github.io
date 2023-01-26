@@ -24,7 +24,7 @@
 - ICA15
 
 ## Weekly Assignments
-- WA1
+- WA1 sammymeier.github.io/index.html 
 - WA2
 - WA3
 - WA4
