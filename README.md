@@ -9,7 +9,7 @@
 ## In-Class Assignments
 - ICA1 https://docs.google.com/document/d/1g4chtN0nnaPiN7fJJbYrjyHuShV49-YioUzcvCbAQx0/edit?usp=sharing 
 - ICA2 https://docs.google.com/document/d/1Q7SaQodRtkNuuEaDQN3zaSinNUw9sy3GRsEFiFxnc8Q/edit?usp=sharing 
-- ICA3
+- ICA3 
 - ICA4
 - ICA5
 - ICA6
@@ -26,7 +26,7 @@
 ## Weekly Assignments
 - WA1 sammymeier.github.io/index.html 
 - WA2 http://127.0.0.1:5500/wa/wa2.html 
-- WA3
+- WA3 sammymeier.github.io/css/ica3a.css 
 - WA4
 - WA5
 - WA6
