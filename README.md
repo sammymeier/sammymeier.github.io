@@ -26,8 +26,9 @@
 ## Weekly Assignments
 - WA1 sammymeier.github.io/index.html 
 - WA2 http://127.0.0.1:5500/wa/wa2.html 
-- WA3 sammymeier.github.io/css/ica3a.html   http://127.0.0.1:5500/css/ica3a.html
-- WA4
+- WA3 sammymeier.github.io/css/ica3a.html
+part 2: sammymeier.github.io/ica/ica3-part2/index.html
+- WA4 
 - WA5
 - WA6
 - WA7
