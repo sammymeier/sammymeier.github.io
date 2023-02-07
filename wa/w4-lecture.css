@@ -1,0 +1,16 @@
+p {
+    color: black;
+}
+
+h1 {
+    font-size: 500%; 
+    color: hotpink;
+    border-bottom: 5px dotted purple;
+}
+
+li {
+    color: green;
+}
+html {
+    background-color: #eeeeee; padding: 1em;
+}
