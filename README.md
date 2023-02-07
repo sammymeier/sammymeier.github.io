@@ -30,6 +30,7 @@
 part 2: sammymeier.github.io/ica/ica3-part2/index.html
 sammymeier.github.io/wa/wa3.html
 - WA4 http://127.0.0.1:5500/wa/wa4.html 
+sammymeier.github.io/ica/ica4.css
 - WA5
 - WA6
 - WA7
