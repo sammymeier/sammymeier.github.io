@@ -3,6 +3,7 @@
 
 ## Projects
 - HTML
+Midterm: sammymeier.github.io/html.midterm/page1.html
 - CSS
 - JS
 
