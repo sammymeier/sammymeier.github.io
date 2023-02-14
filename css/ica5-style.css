@@ -52,6 +52,7 @@ h1 {
     margin: 0;
     background: #ccc;
     background-color: white;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0,0,0,0) 20%,  rgba(0,0,0,0)80%, rgba(0,0,0,0.2));
   }
   
   article {
@@ -61,7 +62,6 @@ h1 {
     position: relative;
     border-top: 5mm solid red;
     border-bottom: 5mm solid red;
-    background: linear-gradient(to bottom, rgba (255,255,0.2),rgba (255,255,0)20%, rgba (255,255,0)80%, rgba (255,255,0.2));
     background-image: url("https://raw.githubusercontent.com/sammymeier/sammymeier.github.io/main/img/top-image.png") no-repeat left top;
     background-image: url("https://raw.githubusercontent.com/sammymeier/sammymeier.github.io/main/img/bottom-image.png");
     background-attachment:relative;
@@ -91,3 +91,5 @@ h1 {
     border-radius: 64px;
     box-shadow: 3px 3px 3px black;
   }
+  
+  /* Your CSS below here */
