@@ -12,7 +12,7 @@ Midterm: sammymeier.github.io/html.midterm/page1.html
 - ICA2 https://docs.google.com/document/d/1Q7SaQodRtkNuuEaDQN3zaSinNUw9sy3GRsEFiFxnc8Q/edit?usp=sharing 
 - ICA3 https://docs.google.com/document/d/13ThhBXJ7ubVK1JpWpkrXKGvbL0sKM9_Nnu7z2XqiI6w/edit?usp=sharing 
 - ICA4 css-examples/learn/getting-started/biog-download.html
-- ICA5 
+- ICA5 sammymeier.github.io/ica/ica5.html 
 - ICA6
 - ICA7
 - ICA8
