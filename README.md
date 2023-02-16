@@ -31,7 +31,7 @@ Midterm: sammymeier.github.io/html.midterm/page1.html
 part 2: sammymeier.github.io/ica/ica3-part2/index.html
 sammymeier.github.io/wa/wa3.html
 - WA4 sammymeier.github.io/wa/wa4.html
-- WA5 
+- WA5 sammymeier.github.io/wa/wa5.html
 - WA6
 - WA7
 - WA8
