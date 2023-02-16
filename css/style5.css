@@ -1,0 +1,26 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5); /* set the background color and opacity of the overlay */
+  }
+  
+  .overlay:before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url("Screen Shot 2023-02-16 at 9.46.07 AM.png"); /* set the image to use as an overlay */
+    opacity: 0.5; /* set the opacity of the image overlay */
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; /* set the z-index to be behind the overlay element */
+  }
