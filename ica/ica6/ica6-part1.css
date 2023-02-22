@@ -12,22 +12,44 @@ body{
     position:relative;
 }
 
-#box2{
-    width: 73vw;
-    height: 33vh;
+#text1 {
+    left: 120%;
+    top: 250px;
+    position: relative;
+}
 
+#box2{
+    width: 40vw;
+    height: 33vh;
     border-style: solid;
     border-radius:3px;
     border-color:purple;
     position:relative;
     left: 40vw;
     background-color: mediumvioletred;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+#text2 {
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
 
 #box3{
-position: sticky;
-width: 73vw;
-height: 175vh;
-border-radius: 10px;
-background-color: orangered;
+    position: absolute;
+    top: 45%;
+    right: 0;
+    transform: translate(0, -50);
+    width: 40vw;
+    height: 33vh;
+    border-radius: 10px;
+    background-color: orangered;
+}
+
+#text3 {
+    position: sticky;
+    top: 0;
 }
