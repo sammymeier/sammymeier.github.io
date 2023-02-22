@@ -14,6 +14,7 @@ Midterm: sammymeier.github.io/html.midterm/page1.html
 - ICA4 css-examples/learn/getting-started/biog-download.html
 - ICA5 sammymeier.github.io/ica/ica5.html 
 - ICA6 sammymeier.github.io/ica/ica6/ica6-part1.html
+sammymeier.github.io/ica/ica6/ica6-part2.html
 - ICA7
 - ICA8
 - ICA9
