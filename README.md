@@ -16,7 +16,7 @@ Midterm: sammymeier.github.io/html.midterm/page1.html
 - ICA6 sammymeier.github.io/ica/ica6/ica6-part1.html
 sammymeier.github.io/ica/ica6/ica6-part2.html
 sammymeier.github.io/ica/ica6/ica6-part3.html
-- ICA7
+- ICA7 https://sammymeier.github.io/ica/ica7/ica7.html
 - ICA8
 - ICA9
 - ICA10
