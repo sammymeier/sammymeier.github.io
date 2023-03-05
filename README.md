@@ -36,7 +36,7 @@ sammymeier.github.io/wa/wa3.html
 - WA5 sammymeier.github.io/wa/wa5.html
 http://127.0.0.1:5500/wa/wa5.html
 - WA6 https://sammymeier.github.io/wa/wa6/index.html
-- WA7
+- WA7 sammymeier.github.io/wa/wa7/wa7.html
 - WA8
 - WA9
 - WA10
