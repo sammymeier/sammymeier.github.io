@@ -69,16 +69,3 @@ img{
     75%{left:0vh;top:80vh; }
     100%{left:0;top:0;}
 }
-
-/* 
-@keyframes red-ballmove {
-    from, to  {
-      botttom: 0;
-      animation-timing-function: ease-out;
-    }
-    50% {
-      bottom: 220px;
-      animation-timing-function: ease-in;
-    }
-}
-*/
