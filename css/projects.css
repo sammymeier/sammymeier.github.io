@@ -17,28 +17,28 @@ html {
     font-size: 200px;
 }
 
-h1 {
-    color: purple;
-    display: block;
-    font-size: 2em;
-    margin-block-start: 0.67em;
-    margin-block-end: 0.67em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 h2 {
     margin-top: 0;
     display: block;
-    font-size: 1.5em;
+    font-size: 1.75em;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    margin-top: 0;
+    display: block;
+    font-size: 1.25em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family:'Courier New', Courier, monospace
+
 }
 
 p {
@@ -48,4 +48,8 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-family:'Courier New', Courier, monospace;
+}
+
+li {
+    text-indent: 50px;
 }
