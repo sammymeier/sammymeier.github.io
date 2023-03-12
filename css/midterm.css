@@ -17,6 +17,10 @@ html {
     font-size: 200px;
 }
 
+navi {
+    color: purple;
+}
+
 h1 {
     color: purple;
     display: block;
