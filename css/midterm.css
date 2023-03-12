@@ -1,1 +1,96 @@
+body{
+    background-color: khaki;
+    font-size: 14px;
+    font-weight: 300;
+    color: #1e1e1e;
+    background-color: #fff;
+    display: block;
+    margin: 8px;
+    font-family:'Courier New', Courier, monospace;
+}
 
+head {
+    display: none;
+}
+
+html {
+    font-size: 200px;
+}
+
+h1 {
+    color: purple;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    margin-top: 0;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.left ul#navi {
+    font-size: 16px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+
+img {
+    max-width: 300px;
+    display: block;
+    margin-right: auto;
+    max-height: 200px;
+}
+
+span {
+    width: 25vw;
+    height: 20vh;
+    color: purple;
+}
+
+span a:hover {
+    background-color: #CBC3E3;
+    transition: 0.2;
+}
+
+span a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color:purple;
+}
