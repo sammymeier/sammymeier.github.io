@@ -5,13 +5,118 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        #button {
+            border: 5px solid darkblue;
+            border-radius: 20px;
+            background-color: lightskyblue;
+            padding: 25px 50px;
+            width: 250px;
+            font-size: 50px;
+        }
+
+        p {
+            font-size: 50px;
+        }
+    </style>
+    <style>
+        #button2 {
+            border: 5px solid darkred;
+            border-radius: 50%;
+            background-color: beige;
+            padding: 20px 45px;
+            width: 200px;
+            height: 200px;
+            font-size: 50px;
+        }
+        
+        p {
+            font-size: 50px;
+        }
+
+    </style>
 </head>
 <body>
-    
+    <div id="button">
+        <p>Click me!</p>
+    </div>
+
+    <br>
+<div class="form">
+        <label for="guessField">Enter a guess: </label>
+        <input type="number" min="1" max="100" required id="guessField" class="guessField">
+        <input type="submit" value="Submit guess" class="guessSubmit">
+</div>
+
+<div id="button2">
+    <p>A circle</p>
+</div>
+
+<br>
+<div class="form">
+    <label for="guessField">Enter a guess: </label>
+    <input type="number" min="1" max="100" required id="guessField" class="guessField">
+    <input type="submit" value="Submit guess" class="guessSubmit">
+</div>
+
+<br>
+
+
     <script>
+        console.log("Hello, World!");
+        let btn = document.querySelector("#button");
+        // console.log(btn);
+
+        function changeBtn() {
+            // console.log("This worked!");
+            btn.textContent = "TEST";
+            btn.style.backgroundColor = "darkblue";
+            btn.style.border = "2px solid lightskyblue";
+            btn.style.color = "white";
+        }
 
 
+        btn.addEventListener('click', changeBtn);
 
+        function checkGuess() {
+            // alert('I am a placeholder');
+            // alert(userGuess.value);
+
+            let value = userGuess.value * 2;
+            alert(value);
+        }
+
+        let guessBtn = document.querySelector(".guessSubmit");
+        let userGuess = document.querySelector(".guessField");
+        // console.log(guessBtn);
+        guessBtn.addEventListener('click', checkGuess);
+    
+    console.log("Hello, World!");
+        let btn2 = document.querySelector("#button2");
+        // console.log(btn);
+
+    function changeBtn2() {
+        // console.log("This worked!");
+        btn2.textContent = "-54";
+        btn2.style.backgroundColor = "darkred";
+        btn2.style.border = "8px solid beige";
+        btn2.style.color = "white";
+}
+
+    btn2.addEventListener('click', changeBtn2);
+
+        function checkGuess() {
+        // alert('I am a placeholder');
+        // alert(userGuess.value);
+
+        let value = userGuess.value * 2;
+        alert(value);
+        }
+
+        let guessBtn2 = document.querySelector(".guessSubmit");
+        // console.log(guessBtn2);
+        guessBtn2.addEventListener('click', checkGuess);
+        
     </script>   
 </body>
 </html>
