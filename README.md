@@ -4,7 +4,7 @@
 ## Projects
 - HTML
 Midterm: sammymeier.github.io/html.midterm/page1.html
-- CSS
+- CSS: sammymeier.github.io/css/midterm.html
 - JS
 
 ## In-Class Assignments
