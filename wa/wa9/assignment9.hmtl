@@ -2,19 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h1>Sammy's Winter Image Gallery</h1>
 
-    <h1>Image gallery example</h1>
-
-<div class="full-img">
-  <img
-    class="displayed-img"
-    src="images/pic1.jpg"
-    alt="Closeup of a blue human eye" />
+  <div class="full-img">
+  <img class="displayed-img" src="images/pic1.jpg" alt="Closeup of a blue human eye" />
   <div class="overlay"></div>
   <button class="dark">Darken</button>
 </div>
@@ -22,9 +17,9 @@
 <img src="/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery/gallery.png" alt="An image gallery with a large image on top and five thumbnails below" width="652" height="647" loading="lazy">flex
     
 </p>
-
-
 <div class="thumb-bar"></div>
+
+<script src="main9.js"></script>
 
 </body>
 </html>
