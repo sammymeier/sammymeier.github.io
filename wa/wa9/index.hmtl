@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Sammy's Adventure Image Gallery</h1>
+
+  <div class="full-img">
+  <img class="displayed-img" src="images/pic6.jpg" alt="Closeup of a blue human eye">
+  <div class="overlay"></div>
+  <button class="dark">Darken</button>
+</div>
+
+<div class="thumb-bar"></div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
