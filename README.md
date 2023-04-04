@@ -20,7 +20,7 @@ sammymeier.github.io/ica/ica6/ica6-part3.html
 - ICA8
 - ICA9 sammymeier.github.io/ica/ica9.html
 - ICA10 sammymeier.github.io/ica/ica10.html
-- ICA11
+- ICA11 sammymeier.github.io/ica/ica11.html
 - ICA12
 - ICA13
 - ICA14
