@@ -41,7 +41,7 @@ http://127.0.0.1:5500/wa7/wa7.html
 - WA8 sammymeier.github.io/css/midterm.html
 - WA9 sammymeier.github.io/wa/wa9.html
 - WA10 sammymeier.github.io/wa/wa9/index.html
-- WA11
+- WA11 sammymeier.github.io/wa/wa11/wa11.html
 - WA12
 - WA13
 - WA14
