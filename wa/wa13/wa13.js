@@ -5,7 +5,7 @@ function check() {
 }
 
 function submit() {
-    alert(output.textContent);
+    alert('Your volume is now: ' + output.textContent);
 }
 
 function reset() {
@@ -59,6 +59,8 @@ function updateOutput() {
     alert(phone_content.value);
 }
 */
+
+
 
 
 var slider = document.getElementById("myRange");
