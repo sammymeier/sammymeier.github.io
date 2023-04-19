@@ -1,1 +1,14 @@
+body {
+    background-color:slategrey;
+  }
 
+#rollButton {
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: darkgray;
+    padding: 10px 35px;
+    width: 100px;
+    height: auto;
+    font-size: 15;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
