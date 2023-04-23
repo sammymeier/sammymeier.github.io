@@ -1,14 +1,69 @@
 body {
-    background-color:slategrey;
-  }
+  background-color:cadetblue;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
-#rollButton {
-    border: 2px solid white;
-    border-radius: 10px;
-    background-color: darkgray;
-    padding: 10px 35px;
-    width: 100px;
-    height: auto;
-    font-size: 15;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
+h1 {
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+}
+
+.slider {
+  height: 1000px;
+  width: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background: #ccc;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+  transform: rotate(270deg);
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 30px;
+  height: 30px;
+  background: #1abc9c;
+  cursor: pointer;
+  border-radius: 50%;
+  margin-top: -10px;
+  transition: background-color 0.15s ease-in-out;
+  position: relative;
+  z-index: 2;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  --slider-position: 0%;
+  left: var(--slider-position);
+}
+
+.slider-value-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.slider-value {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.slider-value-label {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color:black;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
