@@ -1,15 +1,18 @@
-let x;
-let y;
-let z;
+const volumeSlider = document.getElementById('volume-slider');
+const volumeValue = document.getElementById('volume-value');
 
-document.getElementById("rollButton").onclick = function() {
-    x = Math.floor(Math.random() * 6) + 1;
-    y = Math.floor(Math.random() * 6) + 1;
-    z = Math.floor(Math.random() * 6) + 1;
+volumeSlider.addEventListener('input', function() {
+    volumeValue.textContent = volumeSlider.value;
+});
 
+volumeSlider.addEventListener('change', function() {
+});
 
-document.getElementById("xlabel").innerHTML = x;
-document.getElementById("ylabel").innerHTML = y;
-document.getElementById("zlabel").innerHTML = z;
-
-}
+function update() {
+    var volume = slider.value;
+    sliderOutput.textContent = volume;
+    
+    var position = (100 - volume) / 10;
+    slider.style.background = "linear-gradient(to top, #1abc9c " + position + "%, #ccc " + position + "%)";
+    slider.style.setProperty("--slider-position", position + "%");
+  }
