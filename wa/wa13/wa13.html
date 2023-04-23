@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Generator</title>
-    <link rel="stylesheet" href ="wa13.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Vertical Volume Slider</title>
+	<link rel="stylesheet" href="ica.css">
+    <script defer src="ica.js"></script>
 </head>
 <body>
-    <header>
-        <h1>Roll</h1>
-    </header>
-    <div id="button"></div>
-        <label id ="xlabel"></label><br></br>
-        <label id ="ylabel"></label><br></br>
-        <label id ="zlabel"></label><br></br>
-        <button type="button" id="rollButton">Click me</button>
-        <script src="wa13.js"></script>
-    </body>
-    </html>
+	<h1>Badly Designed Volume Changer</h1>
+	<div class="slider-container">
+        <input type="range" min="0" max="99" value="0" class="slider" id="volume-slider" step="3">
+		<div class="slider-value-container">
+			<span class="slider-value" id="volume-value">50</span>
+			<span class="slider-value-label">Volume</span>
+		</div>
+	</div>
+	<script src="script.js"></script>
+</body>
+</html>
