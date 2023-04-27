@@ -44,5 +44,5 @@ http://127.0.0.1:5500/wa7/wa7.html
 - WA11 sammymeier.github.io/wa/wa11/wa11.html
 - WA12 sammymeier.github.io/wa/wa12/wa12.html
 - WA13 sammymeier.github.io/wa/wa13/wa13.html
-- WA14
+- WA14 sammymeier.github.io/wa/wa14/wa14.html
 - WA15
