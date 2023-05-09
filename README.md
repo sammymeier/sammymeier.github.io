@@ -23,7 +23,7 @@ sammymeier.github.io/ica/ica6/ica6-part3.html
 - ICA11 sammymeier.github.io/ica/ica11/ica11.html
 - ICA12 sammymeier.github.io/ica/ica12/ica12.html
 - ICA13 sammymeier.github.io/wa/wa13/wa13.html
-- ICA14
+- ICA14 
 - ICA15
 
 ## Weekly Assignments
@@ -45,4 +45,6 @@ http://127.0.0.1:5500/wa7/wa7.html
 - WA12 sammymeier.github.io/wa/wa12/wa12.html
 - WA13 sammymeier.github.io/wa/wa13/wa13.html
 - WA14 sammymeier.github.io/wa/wa14/wa14.html
-- WA15
+- WA15 Breadcrumbssammymeier.github.io/wa/wa15
+/wa15.html
+
